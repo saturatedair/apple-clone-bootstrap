@@ -1,0 +1,41 @@
+.navbar {
+  background-color: #2e3234 !important;
+}
+
+body {
+  font-family: "Karla", sans-serif;
+}
+main .link-primary {
+  font-size: 1.5rem;
+}
+main .link-primary:hover {
+  text-decoration: underline !important;
+}
+
+#ipad-section {
+  background-color: black !important;
+}
+#ipad-section span {
+  background: linear-gradient(to top, rgb(236, 236, 239), rgb(21, 54, 218));
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  font-family: "Pacifico", "cursive";
+}
+
+#ipad-section a {
+  color: rgb(94, 162, 230);
+}
+#apple-tv img {
+  height: 98vh;
+}
+
+footer {
+  font-size: 0.8rem;
+}
+footer a {
+  color: black;
+}
+footer a:hover {
+  text-decoration: underline !important;
+}
